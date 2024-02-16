@@ -2,11 +2,9 @@
 
 ## Overview
 
-This repository contains a Python project for analyzing customer personalities using various data science techniques. The project covers customer segmentation, clustering, and association rule mining to derive insights into customer behavior and preferences.
+The project covers customer segmentation, clustering, and association rule mining to derive insights into customer behaviour and preferences.
 
-## Project Structure
-
-The project is organized as follows:
+## Key Objectives
 
 1. **Data Exploration and Visualization**
     - Automatic Exploratory Data Analysis (EDA) using `dataprep.eda`.
